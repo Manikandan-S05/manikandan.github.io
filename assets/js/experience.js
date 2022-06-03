@@ -5,18 +5,18 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Media Team Member",
+    cardImage: "assets/images/experience-page/seds.jpg",
+    place: "SEDS CUSAT",
+    time: "(May, 2022 - present)",
+    desp: "<li>Worked together with a group of space enthusiasts who get together to discuss ,explore and have fun with the marvels of the cosmos.</li> <li>Worked in creative media works via posters ,videos through various media applications to influence the space aspirants into the community. </li>"
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Media Team Member",
+    cardImage: "assets/images/experience-page/horizon.jpg",
+    place: "TEAM HORIZON CUSAT",
+    time: "(May, 2022 - present)",
+    desp: "<li>Working in the renowned mars rover team, CUSAT as a media team member.</li><li>This rover team is with a primary goal to participate in university rover challenge and it ranked 32 worldwide in European rover challenge.</li>"
   },
   {
     title: "Research Intern",

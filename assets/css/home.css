@@ -61,7 +61,7 @@ body{
 }
 
 .text {
-  font-size: 25px;
+  font-size: 18px;
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -75,6 +75,7 @@ body{
 
 .animated-text span.active {
   display: inline;
+  color: #a7fc00;
 }
 
 .animated-text:after {
@@ -84,6 +85,16 @@ body{
   text-indent: 0;
   background: var(--col-icon);
   animation: blink 0.3s infinite alternate;
+  
+  
+}
+
+.colour1{
+  font-weight: bold;
+}
+.aboutme{
+  font-family: "Lucida Console", "Courier New", monospace;
+  font-size: 15px;
 }
 .datawords{
   white-space: nowrap;

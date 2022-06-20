@@ -4,7 +4,7 @@ AOS.init();
 const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
-const projects = [
+// const projects = [
   {
     title: "Quiz App",
     cardImage: "assets/images/project-page/quiz.jpg",

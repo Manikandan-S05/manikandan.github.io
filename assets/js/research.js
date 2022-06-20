@@ -2,7 +2,7 @@
 
 const researchTable = document.querySelector(".main");
 
-const research = [
+// const research = [
   {
     title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
     authors:

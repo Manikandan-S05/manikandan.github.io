@@ -168,7 +168,7 @@ function toggle_light_mode() {
   } else {
     nav.classList.add("dark-theme");
     localStorage.lightMode = "dark";
-    app.setAttribute("light-mode", "dark");
+    app.setAttribute("light-mode","dark");
     var sc = document.getElementsByClassName("socialicon");
     for (var i = 0; i < sc.length; i++) {
       sc[i].classList.add("dsc");

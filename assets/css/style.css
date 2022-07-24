@@ -413,7 +413,11 @@ color: #ffffff !important;
   .nav-item:hover::after {
       width: 50%;
       
-  }
+}
+  
+}
+
+
 
   li.nav-item {
       text-align: center;
